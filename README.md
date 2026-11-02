@@ -15,3 +15,5 @@ This repository contains the documentation for Smart Agriculture Assistant. It p
 ### Part of the Project
 
 Smart Agriculture Assistant is a digital agricultural assistant that helps users make better farming decisions, from selecting suitable crops to planning cultivation and tracking plant growth and harvest.
+
+[https://smart-agriculture-assistant.github.io/project-docs/](ArtiFact)
